@@ -1,0 +1,27 @@
+body {
+    align-items: center;
+    text-align: center;
+    padding: 350px;
+    background-color: palegoldenrod;
+
+}
+
+.header {
+    background-color: #fff;
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 10px;
+    height: 17rem;
+    width: 40rem;
+}
+
+button {
+    border-radius: 10%;
+    background-color: green;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
